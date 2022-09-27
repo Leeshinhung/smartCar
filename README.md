@@ -5,29 +5,29 @@
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
-圖 1. 智慧汽車外部與內部的展示環境。
+圖 1. 智慧汽車外部與內部的展示平台。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
-Figure 2. System architecture of the Smart Car demonstration platform.
+圖 2 智慧汽車展示平台的系統架構
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
-Figure 3. The Smart Car’s configuration.
+圖 3. 智慧汽車的配置。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
 
-Figure 4. Layout combination of the transparent windshield display
+圖 4. 透明的擋風玻璃顯示螢幕的佈置
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
-Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
-driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
-lower portion: driver’s vision field has been improved after turning on the application.
+圖 5. 智慧汽車中能見度恢復功能的操作。 上半部分：
+在能見度差的條件下駕駛； 中部：開啟能見度恢復功能；
+下半部分：開啟功能後駕駛員視野得到改善。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
-Figure 6. Driver performing the nighttime contrast enhancement application where the
-driver’svision field is increased. Upper and lower portions represent the driver’s vision field
-before and after using the application.
+圖 6. 執行夜間對比度增強應用程序的驅動程序，其中
+駕駛員視野擴大。 上下部分代表駕駛員的視野
+使用應用程序之前和之後
 
