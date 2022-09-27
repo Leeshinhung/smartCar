@@ -9,7 +9,7 @@
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
-圖 2 智慧汽車展示平台的系統架構
+圖 2 智慧汽車展示平台的系統架構。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
@@ -29,5 +29,5 @@
 
 圖 6. 執行夜間對比度增強應用程序的驅動程序，其中
 駕駛員視野擴大。 上下部分代表駕駛員的視野
-使用應用程序之前和之後
+使用應用程序之前和之後。
 
